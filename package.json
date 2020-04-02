@@ -4,7 +4,7 @@
   "description": "React component for Froala WYSIWYG HTML rich text editor.",
   "main": "index.js",
   "author": "Froala Labs",
-  "types": "lib/index.d.ts",
+  "types": "index.d.ts",
   "keywords": [
     "react",
     "froala",
